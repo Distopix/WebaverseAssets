@@ -1,0 +1,153 @@
+{
+  "objects": [
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[255, 255, 255], 0.5]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 255, 255], 5],
+        "position": [1, 2, 3],
+        "shadow": [150, 5120, 0.1, 10000, -0.0001]
+      }
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/atmospheric-sky/"
+    },
+
+
+
+ {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/Triangles1.glb"
+     
+    },
+ {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/OuterStructure.glb"
+     
+    },
+
+ {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/InitialPlat.glb"
+     
+    },
+
+ {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/GhostPlat1.glb"
+     
+    },
+
+ {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/GhostPlat2.glb"
+     
+    },
+ {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/LargePlat1.glb"
+     
+    },
+
+{
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/LargePlat2.glb"
+     
+    },
+
+{
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/LargePlat3.glb"
+     
+    },
+
+{
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/SmallPlat1.glb"
+     
+    },
+
+{
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/SmallPlat2.glb"
+     
+    },
+
+{
+      "position": [
+        0,
+        0,
+        0
+      ],
+      
+      "start_url": "https://timetrvgghoul.github.io/WebaverseAssets/BSscene/SmallPlat3.glb"
+     
+    }
+
+
+
+]
+}
+
